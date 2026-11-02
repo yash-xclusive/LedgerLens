@@ -1,0 +1,62 @@
+[
+  {
+    "record_id": "R001",
+    "name": "ABC Technologies Pvt Ltd",
+    "registration_id": "GSTIN-29ABC1234A1Z5",
+    "address": "12 MG Road Bengaluru"
+  },
+  {
+    "record_id": "R002",
+    "name": "A.B.C. Technologies Private Limited",
+    "registration_id": "GSTIN-29ABC1234A1Z5",
+    "address": "12 Mahatma Gandhi Road Bengaluru"
+  },
+  {
+    "record_id": "R003",
+    "name": "ABC Technology Services LLP",
+    "registration_id": "LLPIN-AAB-1234",
+    "address": "44 Residency Road Bengaluru"
+  },
+  {
+    "record_id": "R004",
+    "name": "Northstar Components Limited",
+    "registration_id": "CIN-U12345KA2010PLC",
+    "address": "8 Industrial Area Chennai"
+  },
+  {
+    "record_id": "R005",
+    "name": "North Star Component Ltd",
+    "registration_id": "CIN-U99999KA2012PLC",
+    "address": "91 Harbour Road Chennai"
+  },
+  {
+    "record_id": "R006",
+    "name": "Blue River Logistics Pvt Ltd",
+    "registration_id": "GSTIN-27BLU9876B1Z2",
+    "address": "3 Port Road Mumbai"
+  },
+  {
+    "record_id": "R007",
+    "name": "BlueRiver Logistics Private Limited",
+    "registration_id": "GSTIN-27BLU9876B1Z2",
+    "address": "3 Port Road Mumbai"
+  },
+  {
+    "record_id": "R008",
+    "name": "Sunrise Retail Private Limited",
+    "registration_id": "GSTIN-33SUN2222C1Z8",
+    "address": "21 Market Street Hyderabad"
+  },
+  {
+    "record_id": "R009",
+    "name": "Sunrise Retail Pvt Ltd",
+    "registration_id": "GSTIN-33SUN2222C1Z8",
+    "address": "21 Market St Hyderabad"
+  },
+  {
+    "record_id": "R010",
+    "name": "Eastern Finance Services LLP",
+    "registration_id": "LLPIN-XYZ-5555",
+    "address": "6 Park Avenue Delhi"
+  }
+]
